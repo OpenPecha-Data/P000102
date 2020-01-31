@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  sku: KS-PK-10
+  layers:
+  - book_title
+  - author
+  - sabche
+web_metadata:
+  title:
+    en: Clarifying Nagarjuna’s Intent:An Explanation of the Heart Sutra
+    bo: ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས། །
+  collection:
+    en: Pema Karpo Series–  Book 10
+    bo: ཀུན་མཁྱེན་གཞུང་འགྲེལ།–  དེབ། ༡༠
+  author:
+    en: Kunkhyen Pema Karpo
+    bo: ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
+  pusblisher:
+    en: Gautam Buddha Vihara
+    bo: དོན་བརྒྱུད་དཔལ་ལྡན་འབྲུག་པ།
+  sku: KS-PK-10
+  category:
+    en: Prajnaparamita
+    bo: ཤེས་ཕྱིན།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: KS-PK-10.epub
+  description:
+    en: ''
+    bo: ''
