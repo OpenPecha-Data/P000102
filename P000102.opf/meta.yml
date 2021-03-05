@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000102
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཤེས་རབ་སྙིང་པོའི་རྣམ་བཤད་ཀླུ་སྒྲུབ་ཀྱི་དགོངས་པ་གསལ་བར་བསྟན་པ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀུན་མཁྱེན་པདྨ་དཀར་པོ།
-  sku: KS-PK-10
   layers:
   - book_title
   - author
   - sabche
+  id: KS-PK-10
 web_metadata:
   title:
     en: Clarifying Nagarjuna’s Intent:An Explanation of the Heart Sutra
